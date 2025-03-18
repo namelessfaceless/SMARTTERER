@@ -1,0 +1,8 @@
+venv/
+beaglebone_env/
+
+!src/data
+src/data/*
+
+!Arcade/Sandia_SmAHTR_V2/Endpoint/data
+Arcade/Sandia_SmAHTR_V2/Endpoint/data/*
